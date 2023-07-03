@@ -1,0 +1,23 @@
+#dropdown-2 li:hover{
+    color: #8a98eb;
+    background-color: #36373d;
+    font-weight: bold;
+}
+#dropdown-1 li:hover{
+    color: darkorange;
+    background-color: #36373d;
+    font-weight: bold;
+}
+
+#svg-2 {
+    font-weight: bold;
+    position:absolute;
+   left:900px;
+}
+#svg-1{
+
+    font-weight: bold;
+}
+.row{
+    background-color: #545454;
+}
